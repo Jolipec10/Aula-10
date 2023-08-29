@@ -1,0 +1,44 @@
+// this is a js file
+// João Felipe M. F.
+/*
+//Exercicio 
+//A1:
+a. undefined
+b. null 
+c. 11 
+d. 3
+e. (11) [ 3, 19, 5, 6, 7, 8, 9, 10, 11, 12, 13] 
+f. 9
+
+//A2: 
+"SUBI NUM ÔNIBUS EM MIRROCOS"
+*/
+/*
+//B1:
+let nome = prompt("Qual seu nome?");
+let email = prompt("Qual seu e-mail?");
+console.log(`O e-mail ${email} foi cadastrado com sucesso. Seja bem-vinda(o), ${nome}!`);
+*/
+/*
+//B2:
+let comidaspreferidas = ["Sushi", "Pizza", "Lasanha", "Acarajé", "Hamburguer"];
+console.log(comidaspreferidas);
+console.log("Essas são as minhas comidas preferidas:", "Sushi", "Pizza", "Lasanha", "Acarajé", "Hamburguer");
+console.log(comidaspreferidas);
+comidaspreferidas[1] = prompt("Qual sua comida preferida?");
+console.log(comidaspreferidas);
+*/
+/*
+//B3:
+let ListaDeTarefas = [];
+ListaDeTarefas[0] = prompt("Quais são as 3 tarefas que você precisa realizar no dia?");
+ListaDeTarefas[1] = prompt("Quais são as 3 tarefas que você precisa realizar no dia?");
+ListaDeTarefas[2] = prompt("Quais são as 3 tarefas que você precisa realizar no dia?");
+console.log(ListaDeTarefas[0]);
+console.log(ListaDeTarefas[1]);
+console.log(ListaDeTarefas[2]);
+console.log(ListaDeTarefas);
+let tarefa = Number(prompt("Digite o índice de uma tarefa que ele já realizou:"));
+ListaDeTarefas.splice(tarefa, 1);
+console.log(ListaDeTarefas);
+*/
