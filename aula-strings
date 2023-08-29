@@ -11,7 +11,7 @@ e. (11) [ 3, 19, 5, 6, 7, 8, 9, 10, 11, 12, 13]
 f. 9
 
 //A2: 
-"SUBI NUM ÔNIBUS EM MIRROCOS"
+SUBI NUM ÔNIBUS EM MIRROCOS 27
 */
 /*
 //B1:
@@ -41,4 +41,18 @@ console.log(ListaDeTarefas);
 let tarefa = Number(prompt("Digite o índice de uma tarefa que ele já realizou:"));
 ListaDeTarefas.splice(tarefa, 1);
 console.log(ListaDeTarefas);
+*/
+/*
+//Desafios
+//1
+const frase = ("Quem se define se limita");
+const fraseArray = frase.split(" ");
+console.log(fraseArray);
+*/
+/*
+//2
+const lista = ["Banana", "Morango", "Abacaxi", "Laranja", "Ameixa"];
+const IndiceAbacaxi = lista.indexOf("Abacaxi");
+console.log(IndiceAbacaxi);
+console.log(lista.length);
 */
